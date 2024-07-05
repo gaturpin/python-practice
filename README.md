@@ -1,0 +1,1 @@
+Some Pandas, Numpy and SQL practice questions found [here](https://deepnote.com/workspace/avi-chawla-695b-aee6f4ef-2d50-4fb6-9ef2-20ee1022995a/project/Pandas-Notebook-1-d693ac55-6455-40cf-ae34-867c6a02014e/notebook/6449493c84734151b11f4b6871f045d2#99f75bf946d04b9bb1daa9e14c2cfea9)
